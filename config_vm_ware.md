@@ -1,4 +1,4 @@
-  GNU nano 5.4          mi_config_on_vm_ware                   
+                 
 Mi configuracion de vm ware es:
 Sistema Operativo(OS): Parrot OS
 RAM:3GB
